@@ -1,6 +1,6 @@
-#System Overview
+# System Overview
 
-##Speakers and Amps
+## Speakers and Amps
 
 There are four speakers currently installed:
 - Main Left (Left)
@@ -17,7 +17,7 @@ There are three amps installed
 - Crown GX3 (300W for F. Fill and eventually R. Rear)
 - Crown GX5 (500W, for Sub and eventually L. Rear)
 
-##Induction Loop
+## Induction Loop
 
 An induction loop is fitted for use with hearing aids.
 
@@ -25,7 +25,7 @@ It tends to interfere with electric guitars, so might be turned off from band pr
 
 If anyone with a hearing impairment is present, ensure it’s turned back on.
 
-##Rack Mixer
+## Rack Mixer
 
 The rack mixer performs the majority of the signal processing.
 
@@ -33,10 +33,10 @@ It mediates between the stagebox, main mixer (if connected), amps, kitchen media
 
 It can be controlled remotely using an iOS app, or third-party android app
 
-##Main Mixer
+## Main Mixer
 
 The main mixer is an optional component for larger events where direct control is required
 
-##Stagebox
+## Stagebox
 
 The stagebox gives convenient inputs and outputs for a band.
